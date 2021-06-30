@@ -22,7 +22,7 @@ class Episode extends Model
         return $this->belongsTo(Serie::class);
     }
 
-    public function getLinksAttribute($links): array
+    public function getLinksAttribute(): array
     {
         return [
             'serie' => "/api/series/{$this->serie_id}"
