@@ -1,6 +1,6 @@
 ## Lumem Api Séries
 
-Projeto feito em Lumen Framework para fins de aprendizado e treinamento no site Alura Cursos.
+Projeto feito em Lumen/Framework para fins de aprendizado e treinamento no site Alura Cursos.
 
 ### Instalação: 
 
